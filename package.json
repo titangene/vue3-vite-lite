@@ -19,6 +19,7 @@
     "vue-router": "^4.0.12"
   },
   "devDependencies": {
+    "@quasar/vite-plugin": "^1.0.4",
     "@rushstack/eslint-patch": "^1.1.0",
     "@vitejs/plugin-vue": "^2.0.1",
     "@vue/eslint-config-prettier": "^7.0.0",
