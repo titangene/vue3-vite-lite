@@ -12,7 +12,7 @@ export default defineConfig({
       template: { transformAssetUrls }
     }),
     quasar({
-      autoImportComponentCase: 'pascal',
+      // autoImportComponentCase: 'pascal',
       sassVariables: false
     }),
     eslintPlugin({
